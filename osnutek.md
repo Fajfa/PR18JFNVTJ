@@ -30,7 +30,7 @@ Naredili bomo statistiko o kriminalu in ga opazovali skozi leta. Osredotočili s
 Zanima nas tudi, kako pogosto aretirajo ljudi glede na tip zločina. Tako lahko napovemo, če bo oseba aretirana ali ne.
 Z podatkom o lokaciji lahko določimo tip kriminala, ki je bolj pogost v določenih predelih in tako določimo kateri predeli so bolj nevarni od drugih. 
 
-* Kam naj ne gremo da nas ne bodo oropali?
+* Kam naj gremo da nas ne bodo oropali?
 * Kje naj raje ne parkiramo avta? 
 * Kdaj naj se ne sprehajamo čez kateri predel mesta?
 
