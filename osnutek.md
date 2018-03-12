@@ -21,7 +21,6 @@ Podatki so predstavljeni v formatu csv in sicer za leta od 2001 - 2017 . Vsak vn
 * Kratek opis kriminalnega dejanja
 * Lokacijo
 * Podatek ali je bil kdo aretiran
-* Podatek če se je dejanje zgodilo doma
 
 Mogoče bomo našli še kakšno dodatno zbirko podatkov, katero bi dodali k tem podatkom za več zanimivih odkritji.
 
@@ -33,7 +32,7 @@ Z podatkom o lokaciji lahko določimo tip kriminala, ki je bolj pogost v določe
 
 * Kam naj ne gremo da nas ne bodo oropali?
 * Kje naj raje ne parkiramo avta? 
-* Kdaj naj se ne sprehajamo čez kateri predel?
+* Kdaj naj se ne sprehajamo čez kateri predel mesta?
 
 To so nekatera izmed vprašanj na ketere bomo poizkušali odgovoriti.
 
