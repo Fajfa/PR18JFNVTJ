@@ -9,10 +9,11 @@
 Kriminal v Chicagu
 
 ### Vir podatkov
-Podatke bomo pridobili iz ...
+Podatke bomo pridobili iz
 https://www.kaggle.com/currie32/crimes-in-chicago
 
 ### Pomembni cilji
 Cilj je analizirati podatke tako, da izvemo čim več o različnih vrstah kriminala v Chicagu ter kdo ga povzroča in zakaj. V podatkih imamo za vsak primer na voljo datum, lokacijo, tip kriminala, kratek opis, podatek, če je bila oseba aretirana itd. Prav tako bomo predstavili nihanje različnega kriminala po letih in poskusili ugotoviti, zakaj je tako.
-i guess
+
+Poskusili bomo tudi poiskati korelacije med različnimi faktorji, ki vodijo do kriminala. Na podlagi tega bi lahko tudi delali napovedi kje se bo zgodil kakšen kriminal, kdo ga je storil, ipd. Lahko bi tudi poskusili ugotoviti ali gre to za delo tolp, kje se najraje zadržujejo, ipd.
 
