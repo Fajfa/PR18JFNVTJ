@@ -29,7 +29,13 @@ Mogoče bomo našli še kakšno dodatno zbirko podatkov, katero bi dodali k tem 
 Cilj je analizirati podatke tako, da izvemo čim več o kriminalu v Chicagu. 
 Naredili bomo statistiko o kriminalu in ga opazovali skozi leta. Osredotočili se bomo na faktorje kot so lokacija in vrsta kriminala. Kako se tip kriminala spreminja skozi leto/a. Zanima nas kateri tip kriminala je značilen za Chicago, ter kaj je redkost.
 Zanima nas tudi, kako pogosto aretirajo ljudi glede na tip zločina. Tako lahko napovemo, če bo oseba aretirana ali ne.
-Z podatkom o lokaciji lahko določimo tip kriminala, ki je bolj pogost v določenih predelih in tako določimo kateri predeli so bolj nevarni od drugih.
+Z podatkom o lokaciji lahko določimo tip kriminala, ki je bolj pogost v določenih predelih in tako določimo kateri predeli so bolj nevarni od drugih. 
+
+* Kam naj ne gremo da nas ne bodo oropali?
+* Kje naj raje ne parkiramo avta? 
+* Kdaj naj se ne sprehajamo čez kateri predel?
+
+To so nekatera izmed uprašanj na ketere bomo poizkušali odgovoriti.
 
 ### Vizualizacija
 Podatke bomo vizualizirali z primernimi grafi. Na zemljevidu chicaga bomo poizkušali prikazati kje in kakšne vrste kriminalnih dejanj se dogaja po mestu. To bomo realizirali z uporabo določenega okolja (še ni odločeno).
