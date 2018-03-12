@@ -35,7 +35,7 @@ Z podatkom o lokaciji lahko določimo tip kriminala, ki je bolj pogost v določe
 * Kje naj raje ne parkiramo avta? 
 * Kdaj naj se ne sprehajamo čez kateri predel?
 
-To so nekatera izmed uprašanj na ketere bomo poizkušali odgovoriti.
+To so nekatera izmed vprašanj na ketere bomo poizkušali odgovoriti.
 
 ### Vizualizacija
 Podatke bomo vizualizirali z primernimi grafi. Na zemljevidu chicaga bomo poizkušali prikazati kje in kakšne vrste kriminalnih dejanj se dogaja po mestu. To bomo realizirali z uporabo določenega okolja (še ni odločeno).
