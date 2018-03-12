@@ -22,7 +22,6 @@ Podatki so predstavljeni v formatu csv in sicer za leta od 2001 - 2017 . Vsak vn
 * Lokacija
 * ipd.
 
-Nismo še prepričani, če bomo uporabili podatke za vsa leta saj je teh ogromno.
 Mogoče bomo našli še kakšno dodatno zbirko podatkov, katero bi dodali k tem podatkom za več zanimivih odkritji.
 
 ### Pomembni cilji
