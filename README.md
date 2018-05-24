@@ -172,9 +172,10 @@ for key in arrests:
 
 ## Nasilje v družini
 
+
 ## Prihodek na gospodinjstvo
 
-(IMG HERE)
+![alt text](./assets/WealthMap.png)
 
 ## Spreminjanje kriminala čez leta na zemljevidu
 Skozi leta se je lokacija kriminala v Chicagu spreminjala. Naredili smo "heat map" lokacije kriminala za vsako leto, in z gifom predstavili spreminjanje le tega.
