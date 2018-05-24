@@ -170,6 +170,23 @@ for key in arrests:
 ![alt text](./assets/Arrests.png)
 
 
+## Nasilje v družini
+
+## Prihodek na gospodinjstvo
+
+(IMG HERE)
+
+## Spreminjanje kriminala čez leta na zemljevidu
+Skozi leta se je lokacija kriminala v Chicagu spreminjala. Naredili smo "heat map" lokacije kriminala za vsako leto, in z gifom predstavili spreminjanje le tega.
+
+(GIF HERE)
+
+
+## Spreminjanje aretacij čez leta na zemljevidu
+Prav tako se lokacija aretacij skozi leta spreminja, ta gif "heat map-ov" nam prikaže kako se je lokacija policajev skozi leta spreminjala. Policaji povečajo prisotnost tam kjer se dogaja več kriminala, ker se kriminal premika a hkrati ostaja prevladujoč na določenih lokacijah (Oak park, Milenium park)
+
+(GIF HERE)
+
 ## Ugotovitve nad podatki
 Iz teh preprostih grafov smo lahko izpeljali ugotovitve:
 
