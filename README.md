@@ -179,7 +179,7 @@ for key in arrests:
 
 ## Lokacije tolp v Chicagu
 
-![alt text](./assets/Gangs.png)
+![alt text](./assets/Gangs.jpg)
 
 ## Spreminjanje kriminala čez leta na zemljevidu
 Skozi leta se je lokacija kriminala v Chicagu spreminjala. Naredili smo "heat map" lokacije kriminala za vsako leto, in z gifom predstavili spreminjanje le tega.
