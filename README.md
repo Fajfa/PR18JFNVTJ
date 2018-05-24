@@ -180,7 +180,7 @@ for key in arrests:
 ## Spreminjanje kriminala čez leta na zemljevidu
 Skozi leta se je lokacija kriminala v Chicagu spreminjala. Naredili smo "heat map" lokacije kriminala za vsako leto, in z gifom predstavili spreminjanje le tega.
 
-(GIF HERE)
+![alt text](./assets/CrimeThroughYears.png)
 
 
 ## Spreminjanje aretacij čez leta na zemljevidu
