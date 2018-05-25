@@ -181,28 +181,30 @@ for key in arrests:
 
 ![alt text](./assets/Gangs.jpg)
 
-## Spreminjanje kriminala čez leta na zemljevidu
+# Spreminjanje kriminala čez leta na zemljevidu
 Skozi leta se je lokacija kriminala v Chicagu spreminjala. Naredili smo "heat map" lokacije kriminala za vsako leto, in z gifom predstavili spreminjanje le tega.
 
 ![alt text](./assets/CrimeThroughYears.gif)
 
 ## Spreminjanje različnih tipov kriminala čez leta
-# Napad
+![alt text](./assets/Arrests.gif)
+
+## Napad
 ![alt text](./assets/Battery.gif)
 
-# Ropanje
+## Ropanje
 ![alt text](./assets/Theft.gif)
 
-# Prostitucija
+## Prostitucija
 ![alt text](./assets/Prostitution.gif)
 
-# Kriminal povezan z drogo
+## Kriminal povezan z drogo
 ![alt text](./assets/Narcotics.gif)
 
-# Umor
+## Umor
 ![alt text](./assets/Homicide.gif)
 
-# Kraja motornega vozila
+## Kraja motornega vozila
 ![alt text](./assets/GTA.gif)
 
 
