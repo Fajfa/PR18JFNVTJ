@@ -170,9 +170,6 @@ for key in arrests:
 ![alt text](./assets/Arrests.png)
 
 
-## Nasilje v družini
-
-
 ## Prihodek na gospodinjstvo
 
 ![alt text](./assets/WealthMap.png)
