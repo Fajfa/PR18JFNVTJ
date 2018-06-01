@@ -189,8 +189,15 @@ Skozi leta se je lokacija kriminala v Chicagu spreminjala. Naredili smo "heat ma
 ## Napad
 ![alt text](./assets/Assault.gif)
 
+## Napad s hudo telesno poškodbo
+![alt text](./assets/Battery.gif)
+
 ## Ropanje
 ![alt text](./assets/Theft.gif)
+
+## Vlom
+![alt text](./assets/Burglary.gif)
+
 
 ## Prostitucija
 ![alt text](./assets/Prostitution.gif)
@@ -252,4 +259,5 @@ Iz odgovorov, ki smo jih dobili se pojavijo številna vprašanja:
 Ko si odgovorimo na ta vprašanja pa lahko začnemo podrobneje analizirati geografske podatke. 
 Točno kje v mestu je največ zločina, kaj je pogosto kje itd.
 To bomo tudi vizualizirali na mapi Chicaga za lažjo predstavo.
+
 
