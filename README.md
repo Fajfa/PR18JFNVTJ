@@ -187,7 +187,7 @@ Skozi leta se je lokacija kriminala v Chicagu spreminjala. Naredili smo "heat ma
 ![alt text](./assets/Arrests.gif)
 
 ## Napad
-![alt text](./assets/Battery.gif)
+![alt text](./assets/Assault.gif)
 
 ## Ropanje
 ![alt text](./assets/Theft.gif)
