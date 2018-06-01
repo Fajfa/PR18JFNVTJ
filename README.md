@@ -184,31 +184,29 @@ Skozi leta se je lokacija kriminala v Chicagu spreminjala. Naredili smo "heat ma
 ![alt text](./assets/CrimeThroughYears.gif)
 
 ## Spreminjanje različnih tipov kriminala čez leta
-![alt text](./assets/Arrests.gif)
 
-## Napad
+### Napad
 ![alt text](./assets/Assault.gif)
 
-## Napad s hudo telesno poškodbo
+### Napad s hudo telesno poškodbo
 ![alt text](./assets/Battery.gif)
 
-## Ropanje
+### Ropanje
 ![alt text](./assets/Theft.gif)
 
-## Vlom
+### Vlom
 ![alt text](./assets/Burglary.gif)
 
-
-## Prostitucija
+### Prostitucija
 ![alt text](./assets/Prostitution.gif)
 
-## Kriminal povezan z drogo
+### Kriminal povezan z drogo
 ![alt text](./assets/Narcotics.gif)
 
-## Umor
+### Umor
 ![alt text](./assets/Homicide.gif)
 
-## Kraja motornega vozila
+### Kraja motornega vozila
 ![alt text](./assets/GTA.gif)
 
 
@@ -216,7 +214,7 @@ Skozi leta se je lokacija kriminala v Chicagu spreminjala. Naredili smo "heat ma
 ## Spreminjanje aretacij čez leta na zemljevidu
 Prav tako se lokacija aretacij skozi leta spreminja, ta gif "heat map-ov" nam prikaže kako se je lokacija policajev skozi leta spreminjala. Policaji povečajo prisotnost tam kjer se dogaja več kriminala, ker se kriminal premika a hkrati ostaja prevladujoč na določenih lokacijah (Oak park, Milenium park)
 
-(GIF HERE)
+![alt text](./assets/Arrests.gif)
 
 ## Ugotovitve nad podatki
 Iz teh preprostih grafov smo lahko izpeljali ugotovitve:
