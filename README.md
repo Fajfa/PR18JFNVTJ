@@ -15,7 +15,7 @@ https://www.kaggle.com/currie32/crimes-in-chicago
 ![alt text](./assets/CrimePerYear.png)
 Na grafu se vidi, da se je število krimninalnih dejanj iz leta 2005 do 2011 naraslo. Od leta 2011 pa je v padcu. 
 Ta padec v kriminalu lahko pripišemo novemu županu, ki je naredil velike reforme v policiji.
-Trenuto Chicago beleži 14 mesec, ki ima nižjo stopnjo kriminala kot prejšnji mesec
+Trenuto Chicago beleži 14 zaporedni mesec, ki ima nižjo stopnjo kriminala kot prejšnji.
 
 ### Enako smo naredili za mesece v letu:
 ![alt text](./assets/CrimePerMonth.png)
@@ -24,14 +24,14 @@ Trenuto Chicago beleži 14 mesec, ki ima nižjo stopnjo kriminala kot prejšnji 
 ![alt text](./assets/CrimePerSeason.png)
 Logično se zdi, da se stopnja kriminala poveča ko je zunaj bolj vroče in zmanjša, ko je mrzlo.
 
-Zanimalo nas je tudi, če polna luna vpliva na kriminal. Iskazalo se je, da nima takega velikega vpliva. 
+Zanimalo nas je tudi, če polna luna vpliva na kriminal. Izkazalo se je, da nima takega velikega vpliva. 
 Število kriminalnih dejanj se je povečalo za manj kot procent, v primerjavi z dnevom, ko ni bilo polne lune.
 
 
 
 ### Nato smo izrisali graf vrst kriminala:
 ![alt text](./assets/CrimeType.png)
-V Chicagu prevladuje kraja, ki je kar petina vseh zločinov. 
+V Chicagu prevladuje kraja, ki je kar 22% vseh zločinov. 
 Na drugem mestu so napadi s hudo telesno poškodbo, ki predstavljajo malo manj kot petino zločinov.
 Blizu za njimi sta kriminalna škoda in zločini povezani z drogami.
 Ostale vrste kriminala so manj pogoste. 
@@ -59,12 +59,12 @@ Nato pa smo z pomočjo GoogleMaps API izrisali "heat mape" kriminala na sploh in
 ## Prihodek na gospodinjstvo
 ![alt text](./assets/WealthMap.png)
 
-Zanimalo nas kako prihodek vpliva na stopnjo kriminala na tistem področju.
+Zanimalo nas kako prihodek vpliva na stopnjo kriminala.
 
 ## Lokacije tolp v Chicagu
 ![alt text](./assets/Gangs.jpg)
 
-Prav tako je zanimivo kje so tolpe najbolj aktivne in kako to vpliva na lokacijo kriminala v mestu.
+Predeli kjer so tolpe najbolj aktivne.
 
 # Spreminjanje kriminala čez leta na zemljevidu
 ![alt text](./assets/CrimesThroughYears.gif)
@@ -89,19 +89,20 @@ Lokacija ropov v mestu. Teh je največ tam kjer so bolj premožni ljudje, kar je
 ### Vlom
 ![alt text](./assets/Burglary.gif)
 Lokacija vlomov v mestu. Te pa niso najbolj pogosti tam kjer so bogati, sklepamo za to ker je težje priti v bogato stanovanje, kot pa bogatega človeka oropati na cesti.
-Boljše stanovanje, več je tudi varnosti pred vlomilci.
+Boljše stanovanje, več je tudi varnosti pred vlomilci in večja je prisotnost policije.
 
 ### Prostitucija
 ![alt text](./assets/Prostitution.gif)
 Eden izmed najbolj zanimivih gifov. Vidi se kot pričakovano, da je največ prostitucije na glavnih ulicah, tam kjer so ljudje manj premožni. Zanimivo pa je, da bolj ko gremo k sedanjosti, manj je prostitucije. V letu 2016 je skoraj ni več. 
-Razlogov je lahko več.
+Razlogov za to nismo našli. 
 
 ### Kriminal povezan z drogo
 ![alt text](./assets/Narcotics.gif)
 Lokacije kjer je v Chicagu največ droge. Ta gif vključuje proizvodnjo, preprodajo in uživanje drog. 
-Te je največ tam kjer se zadržujejo tolpe. Kar je tudi logično saj je to njihov glavni vir prihodka.
-Prav tako je droge najmanj tam kjer so srednje premožni ljudje. 
-Droge se pojavljajo predvsem  v revnih, pa tudi v bogatih predelih mesta.
+Te je največ tam kjer se zadržujejo tolpe(Vice kings, Gangster disciples). 
+Kar je tudi logično saj je to njihov glavni vir prihodka.
+Prav tako je droge najmanj tam kjer so doma prebivalci srednjega razreda. 
+Droge se pojavljajo predvsem v revnih predelih mesta, v bogatih pa zmeraj manj.
 
 ### Kraja motornih vozil
 ![alt text](./assets/GTA.gif)
@@ -110,8 +111,8 @@ Sicer se čez leta dosti lokacij spreminja, ampak žarišča ostajajo enaka.
 
 ## Spreminjanje aretacij čez leta na zemljevidu
 ![alt text](./assets/Arrests.gif)
-Največ aretiranih je spet tam kjer se najbolj pojavljajo tolpe(Oak park).
-V Milenium Parku je povečana prisotnost policajev ker so to premožne četrti, zato je logično da je tam več aretacij.
+Največ aretiranih je spet tam kjer se najbolj pojavljajo tolpe.
+V vzhodnem delu Chicaga je povečana prisotnost policajev ker so to premožne četrti.
 
 
 
