@@ -58,10 +58,12 @@ Nato pa smo z pomočjo GoogleMaps API izrisali "heat mape" kriminala na sploh in
 
 ## Prihodek na gospodinjstvo
 ![alt text](./assets/WealthMap.png)
+
 Zanimalo nas kako prihodek vpliva na stopnjo kriminala na tistem področju.
 
 ## Lokacije tolp v Chicagu
 ![alt text](./assets/Gangs.jpg)
+
 Prav tako je zanimivo kje so tolpe najbolj aktivne in kako to vpliva na lokacijo kriminala v mestu.
 
 # Spreminjanje kriminala čez leta na zemljevidu
