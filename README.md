@@ -48,6 +48,7 @@ Stopnja kraje in vlomov je velika zato so prebivališča drugo najpogostejše me
 ![alt text](./assets/Arrests.png)
 Delež aretacij je 25%. To je lahko zato ker ne odkrijejo storilca kriminalnega dejanja, ali pa dejanje ne zahteva aretacije. 
 Z dodatno raziskavo smo ugotovili, da veliko umorov, kraje in napadov ostane nerešenih, kar posledično vpliva na delež aretiranih glede na vse zločine.
+Če sklepamo da so aretacije število zločinov, ki jih rešijo, je Chicago pod državnim povprečjem, ki je 40%
 
 
 # Podatki prikazani na zemljevidu
