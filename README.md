@@ -113,3 +113,14 @@ Sicer se čez leta dosti lokacij spreminja, ampak žarišča ostajajo enaka.
 Največ aretiranih je spet tam kjer se najbolj pojavljajo tolpe(Oak park).
 V Milenium Parku je povečana prisotnost policajev ker so to premožne četrti, zato je logično da je tam več aretacij.
 
+
+
+# Zaključki
+Ugotovili smo par pomembnih stvari:
+  - Kriminal v zadnjih letih upada v primerjavi z pred 2011. Povprečje kriminala je kljub temu še zmiraj nad državnim.
+  - Za kriminal v Chicagu so v večini primerov odgovorne tolpe. Delujejo predvsem v predelih zahodnega in južnega Chicaga
+  - Prostitucija je v zadnjih letih iz Chicaga skoraj izginila.
+  - Če hočete ostati varni, se držite predelov, ki niso preveč revni ali preveč bogati.
+  - Avta ne parkirajte v mestu, raje ga pustite doma. Če že greste v mesto parkirajte v "Chinatownu"
+  - Najbolj varen predel Chicaga je na severu zahodu mesta.
+  - Stay OUT of Garfield!
