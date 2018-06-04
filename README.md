@@ -203,9 +203,6 @@ Skozi leta se je lokacija kriminala v Chicagu spreminjala. Naredili smo "heat ma
 ### Kriminal povezan z drogo
 ![alt text](./assets/Narcotics.gif)
 
-### Umor
-![alt text](./assets/Homicide.gif)
-
 ### Kraja motornega vozila
 ![alt text](./assets/GTA.gif)
 
