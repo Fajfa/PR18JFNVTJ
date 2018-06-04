@@ -1,8 +1,7 @@
 # Crimes in Chicago
 https://www.kaggle.com/currie32/crimes-in-chicago
 
-## Vmesno poročilo
-
+## Končno poročilo
 
 ## Skupina
  * Jože Fortun
@@ -40,132 +39,33 @@ Nato smo podatke zapakirali v slovarje in sicer:
   * Vsako od teh let pa vsebuje več podslovarjev v katere preberemo posamezne vrstice.
   
 Za vsako leto nastavimo vsebino podslovarja in tega napolnimo.
-```python
-def setYearDicts ():
-    cd = {}
-    cd["ID"] = []
-    cd["CaseNumber"] = []
-    cd["Date"] = []
-    cd["Block"] = []
-    cd["IUCR"] = []
-    cd["PrimaryType"] = []
-    cd["Description"] = []
-    cd["LocationDescription"] = []
-    cd["Arrest"] = []
-    cd["Domestic"] = []
-    cd["Beat"] = []
-    cd["District"] = []
-    cd["Ward"] = []
-    cd["CommunityArea"] = []
-    cd["FBICode"] = []
-    cd["XCoordinate"] = []
-    cd["YCoordinate"] = []
-    cd["Year"] = []
-    cd["UpdatedOn"] = []
-    cd["Latitude"] = []
-    cd["Longitude"] = []
-    cd["Location"] = []
-```
 Podatki so bili pripravljeni, sledila je analiza.
 
 ### Začeli smo tako da smo za vsako leto od 2001 do 2016 prešteli število kriminalnih dejanj in jih izrisali v grafu:
 
-```python
-# Get crimes/year
-years = []
-count = []
-
-for year in crimeDict:
-    if year not in years and (2001 <= float(year) <= 2016):
-        years.append(year)
-        
-    if (2001 <= float(year) <= 2016):
-        count.append(len(crimeDict[year]["ID"]))
-
-count = [(c / crimes) * 100 for c in count]
-```
 ![alt text](./assets/CrimePerYear.png)
 
 
 
 ### Enako smo naredili za mesece v letu:
 
-```python
-seasonDict = {}
-for y in crimeDict:
-    for d in crimeDict[y]["Date"]:
-        parsed = datetime.strptime( d, "%m/%d/%Y %I:%M:%S %p" ).month
-        if parsed not in seasonDict:
-            seasonDict[parsed] = 0
-
-        seasonDict[parsed] += 1
-
-for m in seasonDict:
-    seasonDict[m] = (seasonDict[m] / crimes) * 100
-```
 ![alt text](./assets/CrimePerMonth.png)
 
 
 ### In za letne čase:
 
-```python
-seasons = ["Spring", "Summer", "Fall", "Winter"]
-seasonCounts = [seasonDict[4] + seasonDict[5] + seasonDict[6], 
-                seasonDict[7] + seasonDict[8] + seasonDict[9],
-                seasonDict[10] + seasonDict[11] + seasonDict[12], 
-                seasonDict[1] + seasonDict[2] + seasonDict[3]]
-               
-```
+
 ![alt text](./assets/CrimePerSeason.png)
 
 ### Nato smo izrisali graf vrst kriminala:
 
-```python
-crimeTypes = {}
-for year, value in crimeDict.items():   
-    for type in value["PrimaryType"]:
-        if(type not in crimeTypes.keys()):
-            crimeTypes[type] = 1
-        else:
-            crimeTypes[type] += 1
-
-crime = []
-count = []
-for x,y in dict(sorted(crimeTypes.items(), key=lambda row:int(row[1]))).items():
-    crime.append(x)
-    count.append(float(int(y) / crimes) * 100)
-               
-```
 ![alt text](./assets/CrimeType.png)
 
 ### Graf  10 najpogostejših lokacij kriminala:
 
-
-```python
-location = defaultdict(int)
-for year in crimeDict:
-    for loc in crimeDict[year]["LocationDescription"]:
-        location[loc] += 1
-#location.keys()
-for loc in location:
-    location[loc] = (location[loc] / arrests) * 100
-
-location.pop("OTHER")
-```
 ![alt text](./assets/CrimeLocation.png)
 
 ### In nazadnje, delež aretacij.
-
-```python
-arrests = defaultdict(int)
-
-for year in crimeDict:
-    for arr in crimeDict[year]["Arrest"]:
-        arrests[arr] += 1
-
-for key in arrests:
-    arrests[key] /= crimes
-```
 
 ![alt text](./assets/Arrests.png)
 
